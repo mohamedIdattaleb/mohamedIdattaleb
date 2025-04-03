@@ -24,7 +24,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" height="40" alt="html logo"  />
+  <img src="https://logospng.org/download/html-5/logo-html-5-256.png" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" height="40" alt="css logo"  />
   <img width="12" />
@@ -41,5 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/638a619a6a5d36813fdb2f3b_gXFzP_izScI-K19n3uFT_fwZZPr1phJ5Jh3lp1b4yqM.png" height="40" alt="python logo"  />
 </div>
 
