@@ -26,6 +26,8 @@
 <div align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-512/html5-10-569380.png" height="40" alt="html logo"  />
   <img width="12" />
+  <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
