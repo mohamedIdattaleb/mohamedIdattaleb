@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2023 <br>
+✨ Creating bugs since 2024 <br>
 📚 I'm currently learning advanced web development with React, Laravel, and MySQL <br>
 🎯 Goals: Build scalable and efficient web applications <br>
 🎲 Fun fact: I love debugging almost as much as coding! 
