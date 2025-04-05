@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ID ATTALEB Mo, a 22 years old Full-Stack Web Developer from The Kingdom of Morocco.</p>
+<p align="left">My name is ID ATTALEB MOHAMED, a 22 years old Full-Stack Web Developer from The Kingdom of Morocco.</p>
 
 ###
 
