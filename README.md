@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" height="40" alt="laravel logo"  />
+  <img src="[https://logospng.org/download/laravel/logo-laravel-icon-1024.png](https://tse1.mm.bing.net/th?id=OIP.s7ZEqkmVrugV-4MdcVxMaAHaHa&pid=Api&P=0&h=180)" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
